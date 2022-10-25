@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0",
+    "name": "Michael",
+    "email": "michael@gmail.com",
+    "phone": "+13234287754",
+    "subscribed": ["Sports", "Finance"],
+    "channels": ["SMS", "Email"]
+  },
+  {
+    "id": "1",
+    "name": "Nick",
+    "email": "nick@gmail.com",
+    "phone": "+13234287756",
+    "subscribed": ["Movies"],
+    "channels": ["Email", "PushNotification"]
+  },
+  {
+    "id": "2",
+    "name": "Tom",
+    "email": "tom@gmail.com",
+    "phone": "+13234287454",
+    "subscribed": ["Sports", "Finance", "Movies"],
+    "channels": ["SMS"]
+  },
+  {
+    "id": "3",
+    "name": "Jerry",
+    "email": "jerry@gmail.com",
+    "phone": "+13234200054",
+    "subscribed": ["Sports", "Finance", "Movies"],
+    "channels": ["SMS", "PushNotification"]
+  },
+  {
+    "id": "4",
+    "name": "Thomas",
+    "email": "thomas@gmail.com",
+    "phone": "+13234287754",
+    "subscribed": ["Sports", "Movies"],
+    "channels": ["Email", "PushNotification"]
+  }
+]
